@@ -1,4 +1,4 @@
-Latex docker container [![Docker hub](https://img.shields.io/docker/pulls/blang/latex.svg)](https://hub.docker.com/r/blang/latex/)
+Latex docker container [![Docker hub](https://img.shields.io/docker/pulls/x0re/latex-docker.svg)](https://hub.docker.com/r/x0re/latex-docker)
 ======================
 
 This container helps compiling latex sources without the need to install all latex packages on your system.
