@@ -16,7 +16,7 @@ Versions
 All versions are based on Ubuntu: ([See all tags](https://hub.docker.com/r/blang/latex/))
 
 - [x0re/latex-docker:ubuntu (:latest) - Dockerfile.ubuntu](Dockerfile.ubuntu) Ubuntu TexLive distribution: Old but stable, most needed package: texlive-full (3.9GB)
-- [x0re/latex-docker:latest - Dockerfile.basic](Dockerfile.basic) CTAN TexLive Scheme-basic: Up-to-date, only basic packages, base for custom builds (500MB)
+- [x0re/latex-docker:basic - Dockerfile.basic](Dockerfile.basic) CTAN TexLive Scheme-basic: Up-to-date, only basic packages, base for custom builds (500MB)
 - [x0re/latex-docker:full - Dockerfile.full](Dockerfile.full) CTAN TexLive Scheme-full: Up-to-date, all packages (5.6GB)
 
 If you need...
