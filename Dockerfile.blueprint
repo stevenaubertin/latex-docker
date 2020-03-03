@@ -1,5 +1,5 @@
 # Remember to change your base version if needed
-FROM blang/latex:ctanbasic
+FROM x0re/latex-docker:latest
 
 # Collection of recipes for common setups
 
